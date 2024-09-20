@@ -1,0 +1,33 @@
+.container{
+    width: 500px;
+    margin: auto;
+}
+.title{
+    display: block;
+    width: 30%;
+    padding: 5px;
+}
+.caption{
+    display: block;
+    width: 50%;
+    padding: 30px;
+}
+.btn{
+    margin-top: 10px;
+    padding: 10px;
+    background: rgb(18, 116, 207);
+    color: white;
+    border: none;
+}
+.post{
+    display: flex;
+    
+}
+.posttwo{
+    width: 200px;
+    border: 2px solid rgb(161, 157, 157);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
